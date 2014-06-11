@@ -1,4 +1,2 @@
-site
-====
-
-Site project using YOI (http://yoi.tapquo.com)
+# Swift2JS: Site
+http://swiftjs.org
